@@ -47,5 +47,5 @@
 -[Tsupa Vladislav](https://github.com/vladertok)
 -[Grigorev I.S.](https://github.com/ignatgrigorev)-zachet
 
-\[Polyakov I.A.](https://github.com/TAJlAHT)
+-[Polyakov I.A.](https://github.com/TAJlAHT)
 
